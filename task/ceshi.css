@@ -1,0 +1,35 @@
+.tests{
+    width:100%;
+    height:100%;
+    background-color:#68cdd5;
+    position:absolute;
+    left:0px;
+    top:0px;
+    right:0px;    
+    bottom:0px;
+}
+.test{
+    position:absolute;
+    left:10px;
+    top:10px;    
+}    
+.main{
+    position:absolute;
+    top:15%;
+    left:33%;
+    right:45%;
+   }
+.mains{
+    position:absolute;
+    left:13%;
+    right:13%;
+    top:30%;
+    text-align: center;
+    color: white;
+}
+.logos{
+    position:absolute;
+    top:70%;
+    left:25%;
+    
+}
