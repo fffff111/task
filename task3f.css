@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background:rgb(104, 205, 214);
+    color:white;
+    font-size:15px;
+}
+img{
+    display:block;
+}
+.test{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.test img{
+    width: 45px;
+    height: 45px; 
+}
+.main img{
+    margin: 0 auto;
+    margin-top: 25px;
+    width:170px;
+    height: 65px;
+}
+.container{
+    width: 75vw;
+    margin: 0 auto;
+}
+.container .mains{
+    margin-top:80px;
+    margin-bottom: 160px;
+}
+.container .logos{
+    float:left;
+}
+.container .logoss{
+    float:right;
+}
+.container .logos p{
+    margin-left:-8px;
+}
+
+.container .logoss p{
+    margin-left:-7px;
+}
+.container .logos img
+{
+    width:60px;
+    height:60px;
+}
+.container .logoss img
+{
+    width:60px;
+    height:60px;
+}
